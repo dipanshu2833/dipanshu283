@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm dipanshu sau</h1>
+<h1 align="center">Hi 👋, I'm dipanshu sahu</h1>
 <h3 align="center">Enthusiastic Fresher with a Zeal for Development and Learning 📚💡</h3>
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
+
+- 🤝 I’m looking forward to work **with tech companies.**
+
+- 📝 Coding ninjas Profile [https://www.codingninjas.com/studio/profile/dipanshu28](https://www.codingninjas.com/studio/profile/dipanshu28)
+
+- 💬 Ask me about **DSA, Networking.**
 
 - 📫 How to reach me **sahudipanshu18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/dipanshu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu28" height="30" width="40" /></a>
+<a href="https://instagram.com/dipanshu028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanshu028" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
